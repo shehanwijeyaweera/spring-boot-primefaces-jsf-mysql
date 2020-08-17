@@ -1,0 +1,7 @@
+.idea/
+*.iml
+data/
+/target/
+
+# Project exclude paths
+/src/main/webapp/WEB-INF/classes/
